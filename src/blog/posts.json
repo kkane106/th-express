@@ -1,0 +1,23 @@
+{
+	"First post": {
+		"title": "Building a blog with ExpressJS",
+		"description": "ExpressJS makes me nostalgic for the days of yore when I learned Sinatra."
+	},
+	"Second post": {
+		"title": "The necessity of 'Require'",
+		"description": "At first when I was starting with ExpressJS I thought I had misconfigured the ENV settings somewhere because I did not have full visibility of my dependencies, but then I learned about require, and everything started falling into place"
+	},
+	"Third post": {
+		"title": "On to Blogging",
+		"description": "In lieu of fake data I've created my own to get a better feel for creating my own JSON objects as they are integral to data persistence as well as presentation in JS."
+	},
+	"Fouth post": {
+		"title": "nodemon",
+		"description": "Irrespective of pronunciation, anything that automatically refreshes node on file change is a god send."
+	},
+	"Fifth post": {
+		"title": "Node Inspector",
+		"description": "It's like having an IDE but without all the RAM...well, unless you're using Chrome."
+	}
+	
+}
